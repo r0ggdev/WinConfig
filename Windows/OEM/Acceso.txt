@@ -1,0 +1,8 @@
+Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation
+
+ -> valor de cadena con nombre "Logo"
+
+IMAGEN:
+   Tipo: BMP
+   Tamaño: 100 x 100px
+   Profundidad: 32 bits
